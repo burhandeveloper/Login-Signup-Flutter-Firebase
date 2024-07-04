@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798483806786",
+    "project_id": "netcheck-9fe45",
+    "storage_bucket": "netcheck-9fe45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798483806786:android:7fe0b6aba0edc2a0e3cbdb",
+        "android_client_info": {
+          "package_name": "com.example.netcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKqNhZPR57q_OA3cuyGUc5kOlSHv-4Ano"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
